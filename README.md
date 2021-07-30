@@ -38,6 +38,11 @@ STEP 4 Initialize git in Current working directory in your terminal, command pro
 git init
 !!! Note If git is not installed in your system then download it from GIT-SCM site
 
+
+
+Pip install -r requirements.txt
+
+
 STEP 5 Install DVC and its gdrive extension
 pip install dvc
 pip install dvc[gdrive]
